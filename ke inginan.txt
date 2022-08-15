@@ -1,2 +1,8 @@
 - ingin menjadi Software Enginer
 - bisa membantu banyak orang dengan ilmu yang saya kuasai
+- framework css
+  -- bootstrap
+  -- sas
+- javascript
+  -- angular.js
+  -- flutter
